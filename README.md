@@ -1,3 +1,5 @@
 This game was made as a final group project in the Freshman Engineering II course at Notre Dame. Most of the course was spent learning to program with MATLAB. This game takes place in a post-apocolyptic world, where the user must navigate their way to safety. The user can choose various items that help their chances of survival, and can play on Easy and Hard modes. It also has the ability to run computer simulations of the game to give the player a better idea of what items are the best to choose.
 
 This game implements 2D animation and graphics in MATLAB, as well as MATLABs GUI features. The requirements for the project were to create a computer simulation and to make it realistic. To make it realistic, we used various pharmokinetic equations to model the health of the player. For some of these the Euler method had to be implemented to solve the differential equations. In addition, we have found that the computer simulation is very similar to an experienced player. While a learning curve is expected, it is not difficult to reach the success rate of the simulation.
+
+GameTool.m runs the game.
